@@ -1,3 +1,6 @@
 [submodule "odin-recipes"]
 	path = odin-recipes
 	url = https://github.com/0rphee/odin-recipes.git
+[submodule "css-exercises"]
+	path = css-exercises
+	url = https://github.com/0rphee/css-exercises.git
