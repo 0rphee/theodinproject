@@ -13,3 +13,6 @@
 [submodule "odin-javascript-exercises"]
 	path = odin-javascript-exercises
 	url = git@github.com:0rphee/odin-javascript-exercises.git
+[submodule "odin-etch-a-sketch"]
+	path = odin-etch-a-sketch
+	url = git@github.com:0rphee/odin-etch-a-sketch.git
