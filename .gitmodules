@@ -1,9 +1,6 @@
 [submodule "odin-recipes"]
 	path = odin-recipes
 	url = https://github.com/0rphee/odin-recipes.git
-[submodule "css-exercises"]
-	path = css-exercises
-	url = https://github.com/0rphee/css-exercises.git
 [submodule "odin-foundations-landing-page"]
 	path = odin-foundations-landing-page
 	url = git@github.com:0rphee/odin-foundations-landing-page.git
@@ -16,3 +13,6 @@
 [submodule "odin-etch-a-sketch"]
 	path = odin-etch-a-sketch
 	url = git@github.com:0rphee/odin-etch-a-sketch.git
+[submodule "odin-css-exercises"]
+	path = odin-css-exercises
+	url = git@github.com:0rphee/odin-css-exercises.git
