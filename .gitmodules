@@ -16,3 +16,6 @@
 [submodule "odin-css-exercises"]
 	path = odin-css-exercises
 	url = git@github.com:0rphee/odin-css-exercises.git
+[submodule "odin-calculator"]
+	path = odin-calculator
+	url = git@github.com:0rphee/odin-calculator.git
